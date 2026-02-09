@@ -15,3 +15,4 @@ CEP146-NCC
 <img width="771" height="678" alt="image" src="https://github.com/user-attachments/assets/033a7dd5-1cfe-4fe5-bc4f-cd593905a04f" />
 <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/a9ab1d06-f9eb-4184-b636-0a936c044d29" />
 <img width="1460" height="730" alt="image" src="https://github.com/user-attachments/assets/d9d48c56-5880-4b00-99ea-0115e27d6e5c" />
+last questions sources___ 1)Why web performance matters (MDN Web Docs)
