@@ -8,22 +8,29 @@ CEP146-NCC
 
 
 
-<img width="1024" height="538" alt="image" src="https://github.com/user-attachments/assets/f2db9e7c-0213-46e6-9110-c93c118788df" />
-<img width="782" height="521" alt="image" src="https://github.com/user-attachments/assets/0b9eef0b-15c1-42b8-bc20-5e2aaba53e02" />
-<img width="1460" height="730" alt="image" src="https://github.com/user-attachments/assets/7f3509ac-fb70-413a-9b9c-835522f348be" />
-<img width="694" height="360" alt="image" src="https://github.com/user-attachments/assets/7aa9fbd0-23da-425d-81c5-32b365a7e503" />
-<img width="771" height="678" alt="image" src="https://github.com/user-attachments/assets/033a7dd5-1cfe-4fe5-bc4f-cd593905a04f" />
-<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/a9ab1d06-f9eb-4184-b636-0a936c044d29" />
-<img width="1460" height="730" alt="image" src="https://github.com/user-attachments/assets/d9d48c56-5880-4b00-99ea-0115e27d6e5c" />
+
+
+
+
+
+
 last questions sources___ 1)Why web performance matters (MDN Web Docs)
 
 # Topic:  Web performance optimization 
 The procedure of refining the speed and responsiveness of a website is called web performance optimization. It includes approaches to reduce page load times, web server response times and the usefulness of both mobile and desktop are increased by web performance optimization.
+<img width="1024" height="538" alt="image" src="https://github.com/user-attachments/assets/f2db9e7c-0213-46e6-9110-c93c118788df" />
+
 ## Ways web optimization can be done through back-end measures 
+
+<img width="1460" height="730" alt="image" src="https://github.com/user-attachments/assets/d9d48c56-5880-4b00-99ea-0115e27d6e5c" />
+
 1. Reducing image sizes 
 2. Making sure your business needs are prioritized when choosing a web server
 3. Site code modification.
+
 ##   Benefits of web performance optimization. 
+
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/a9ab1d06-f9eb-4184-b636-0a936c044d29" />
 
 1. **Increased sales:** This is very important because it is the end goal of what every one wants and Unbounce highlights that most customers patronize retailers voluntarily due to their page speed.
 2. **Better Ease of use:** User experience are enhanced due to ease of use which
@@ -31,6 +38,8 @@ enhances  clients contentment.
 
 
 ## Ways of Tracking website performance .
+
+<img width="1460" height="730" alt="image" src="https://github.com/user-attachments/assets/7f3509ac-fb70-413a-9b9c-835522f348be" />
 
 For a  website to be optimized,  we need to keep track of some measures and this can be done with tools like PageSpeed insights , Shopify web performance and so on which are free. 
 
@@ -47,22 +56,33 @@ The duration it takes for the browser to provide the most visible element or con
  
 
 ## Five ways to optimize your website performance .
+
+<img width="782" height="521" alt="image" src="https://github.com/user-attachments/assets/0b9eef0b-15c1-42b8-bc20-5e2aaba53e02" />
+
 1. **Optimize image files:**
+   
 Images that are huge may consume the time required for a website to download it. The best solution in this case is to compress the images which could be done using online tools like Compressor.io or using editing software like Photoshop. In addition, images should be highlighted and  prioritized so that the unnecessary images can be excluded.
    
-2. **Decrease and combine files:**
- The process of reducing the size of source code by excluding unnecessary characters and reducing the size of HTML, JavaScript, and CSS files is essential for better performance. Also, Combining multiple files into one reduce the number of requests the browser needs to make. This can be done with tools like Webpack and Grunt.
+2. **Optimize code execution:**
    
-3. **Optimize code execution:** 
    The code on sites can help browsers load faster when it is refined to make it less time consuming. To illustrate, It would take less time to get results from database    when the search functions are refined for better performance.
    
-4. **Tracking Performance:** 
+3. **Tracking Performance:**
+   
       Another means of optimizing website performance is when the website is been tracked. The best way to guarantee long-time optimization is through running different forms of experiments on performance tests.
    
-5. **Leveraging content delivery networks:**
+4. **Leveraging content delivery networks:**
+ 
  Contents from websites are being reserved  on servers located to each user’s geographical location with the help of Contents delivery networks (CDNs). CDNs enhance load times .  Examples of the tools are Cloudflare and Akamai.
-
-
+ 
+  <img width="771" height="678" alt="image" src="https://github.com/user-attachments/assets/033a7dd5-1cfe-4fe5-bc4f-cd593905a04f" />
+  
+5. **Decrease and combine files:**
+   
+ The process of reducing the size of source code by excluding unnecessary characters and reducing the size of HTML, JavaScript, and CSS files is essential for better performance. Also, Combining multiple files into one reduce the number of requests the browser needs to make. This can be done with tools like Webpack and Grunt.
+ 
+  <img width="694" height="360" alt="image" src="https://github.com/user-attachments/assets/7aa9fbd0-23da-425d-81c5-32b365a7e503" />
+  
 #### Reference list
 Moy, R. (2026, July 08). 9 Essential Strategies for Web Performance Optimization. [Source link](https://www.shopify.com/ca/enterprise/blog/web-performance-optimization?)
 
