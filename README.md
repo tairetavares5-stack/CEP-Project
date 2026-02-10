@@ -61,5 +61,8 @@ Images that are huge may consume the time required for a website to download it.
    
 5. **Leveraging content delivery networks:**
  Contents from websites are being reserved  on servers located to each user’s geographical location with the help of Contents delivery networks (CDNs). CDNs enhance load times .  Examples of the tools are Cloudflare and Akamai.
-   
+
+
+#### Reference list
+Moy, R. (2026, July 08). 9 Essential Strategies for Web Performance Optimization. [Source link](https://www.shopify.com/ca/enterprise/blog/web-performance-optimization?)
 
