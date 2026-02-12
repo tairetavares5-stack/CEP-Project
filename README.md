@@ -26,15 +26,14 @@ The procedure of refining the speed and responsiveness of a website is called we
 
 1. Reducing image sizes 
 2. Making sure your business needs are prioritized when choosing a web server
-3. Site code modification.
+3. Site code modification
 
 ##   Benefits of web performance optimization. 
 
 <img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/a9ab1d06-f9eb-4184-b636-0a936c044d29" />
 
 1. **Increased sales:** This is very important because it is the end goal of what every one wants and Unbounce highlights that most customers patronize retailers voluntarily due to their page speed.
-2. **Better Ease of use:** User experience are enhanced due to ease of use which
-enhances  clients contentment.
+2. **Better Ease of use:** User experience are enhanced due to ease of use which enhances  client's contentment.
 
 
 ## Ways of Tracking website performance .
@@ -50,7 +49,7 @@ This is the span being required by a webpage to be completely available for use 
 ### Total page size 
    This entails the combined size of all components that upholds a web page . Minimizing it increases web performance optimization
 ### Number of HTTP requests
- The illustration of the complete number of requests the browser put together to get essential resources for providing the webpage is called number of HTTP requests. A       lower number of HTTP requests is essential for a good performance.
+ The illustration of the complete number of requests the browser put together to get essential resources for providing the webpage is called number of HTTP requests. A lower number of HTTP requests is essential for a good performance.
 ### Largest contentful paint 
 The duration it takes for the browser to provide the most visible element or content block, for example, an image or text block, providing intuition into when the necessary contents become available to users is tracked by LCP.  A  lower LCP is essential for a faster website.
  
@@ -81,7 +80,7 @@ Images that are huge may consume the time required for a website to download it.
    
  The process of reducing the size of source code by excluding unnecessary characters and reducing the size of HTML, JavaScript, and CSS files is essential for better performance. Also, Combining multiple files into one reduce the number of requests the browser needs to make. This can be done with tools like Webpack and Grunt.
  
-  <img width="694" height="360" alt="image" src="https://github.com/user-attachments/assets/7aa9fbd0-23da-425d-81c5-32b365a7e503" />
+<img width="694" height="360" alt="image" src="https://github.com/user-attachments/assets/7aa9fbd0-23da-425d-81c5-32b365a7e503" />
   
 #### Reference list
 Moy, R. (2026, July 08). 9 Essential Strategies for Web Performance Optimization. [Source link](https://www.shopify.com/ca/enterprise/blog/web-performance-optimization?)
