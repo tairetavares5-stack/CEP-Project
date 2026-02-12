@@ -80,7 +80,29 @@ Images that are huge may consume the time required for a website to download it.
  The process of reducing the size of source code by excluding unnecessary characters and reducing the size of HTML, JavaScript, and CSS files is essential for better performance. Also, Combining multiple files into one reduce the number of requests the browser needs to make. This can be done with tools like Webpack and Grunt.
  
 <img width="694" height="360" alt="image" src="https://github.com/user-attachments/assets/7aa9fbd0-23da-425d-81c5-32b365a7e503" />
-  
+
+ ## why is software performance and speed are important for users and developers?
+
+foru users ---- 1) better user experience.
+                2) time saving.
+                3) trusts and quality perception.
+for developers--- 1) better reputation.
+                  2) lower costs.
+                  3)scalability.
+                  4)preventing problems.
+
 #### Reference list
 Moy, R. (2026, July 08). 9 Essential Strategies for Web Performance Optimization. [Source link](https://www.shopify.com/ca/enterprise/blog/web-performance-optimization?)
-last questions Why web performance matters (MDN Web Docs)
+last questions why is software performance and speed are important for users and developers?
+
+foru users ---- 1) better user experience.
+                2) time saving.
+                3) trusts and quality perception.
+for developers--- 1) better reputation.
+                  2) lower costs.
+                  3)scalability.
+                  4)preventing problems.
+
+
+
+
