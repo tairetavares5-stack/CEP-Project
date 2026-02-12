@@ -12,9 +12,8 @@ CEP146-NCC
 
 
 
-
-
-last questions sources___ 1)Why web performance matters (MDN Web Docs)
+## Video:
+https://seneca-my.sharepoint.com/:p:/r/personal/tatavares_myseneca_ca/_layouts/15/doc2.aspx?sourcedoc=%7B75058029-2e2f-4c06-952a-f0784efe76f1%7D&action=edit&previoussessionid=46a7f360-b90e-3af8-6c18-6100235c9f06
 
 # Topic:  Web performance optimization 
 The procedure of refining the speed and responsiveness of a website is called web performance optimization. It includes approaches to reduce page load times, web server response times and the usefulness of both mobile and desktop are increased by web performance optimization.
@@ -84,4 +83,4 @@ Images that are huge may consume the time required for a website to download it.
   
 #### Reference list
 Moy, R. (2026, July 08). 9 Essential Strategies for Web Performance Optimization. [Source link](https://www.shopify.com/ca/enterprise/blog/web-performance-optimization?)
-
+last questions Why web performance matters (MDN Web Docs)
