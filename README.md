@@ -13,7 +13,7 @@ CEP146-NCC
 
 
 ## Video:
-https://seneca-my.sharepoint.com/:p:/r/personal/tatavares_myseneca_ca/_layouts/15/doc2.aspx?sourcedoc=%7B75058029-2e2f-4c06-952a-f0784efe76f1%7D&action=edit&previoussessionid=46a7f360-b90e-3af8-6c18-6100235c9f06
+https://youtu.be/XI09j3cBxsc
 
 # Topic:  Web performance optimization 
 The procedure of refining the speed and responsiveness of a website is called web performance optimization. It includes approaches to reduce page load times, web server response times and the usefulness of both mobile and desktop are increased by web performance optimization.
